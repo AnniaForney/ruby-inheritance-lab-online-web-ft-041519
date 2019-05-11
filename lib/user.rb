@@ -1,4 +1,4 @@
-class User 
+class User
 
   att_accessor : 
-end 
+end
