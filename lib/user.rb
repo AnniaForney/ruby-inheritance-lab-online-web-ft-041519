@@ -1,15 +1,4 @@
-class User
-  attr_accessor :name
+class User 
 
-  def initialize(name)
-    @name = name
-  end
-
-  def first_name
-    @first_name
-  end
-
-  def last_name
-    @last_name
-  end
-end
+  att_accessor : 
+end 
