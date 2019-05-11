@@ -1,4 +1,4 @@
 class User
 
-  att_accessor : 
+  att_accessor :first_name, :last_name
 end
