@@ -2,7 +2,6 @@ class User
 
   att_accessor :first_name, :last_name
 
-  def initialize(name)
-    @name = name 
+def initialize (first_name, last_name)
   end
 end
