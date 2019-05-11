@@ -1,4 +1,3 @@
 class Student
-  def initialize
-    @knowledge = []
+  attr_accessor :knowledge
 end
